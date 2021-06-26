@@ -1,1 +1,2 @@
-# pro-34-kill-the-monster
+# KILL-THE-MONSTER
+PRO-C34
